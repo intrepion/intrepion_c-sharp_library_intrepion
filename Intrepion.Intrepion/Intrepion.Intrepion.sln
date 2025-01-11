@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intrepion.Intrepion.BusinessLogic", "Intrepion.Intrepion.BusinessLogic\Intrepion.Intrepion.BusinessLogic.csproj", "{5620BF30-7AF6-4206-A1A9-ECA6906F4E16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intrepion.Intrepion.BusinessLogic.UnitTests", "Intrepion.Intrepion.BusinessLogic.UnitTests\Intrepion.Intrepion.BusinessLogic.UnitTests.csproj", "{5F0D7BB5-1F01-4F4B-8A74-B0F5E1183754}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5620BF30-7AF6-4206-A1A9-ECA6906F4E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5620BF30-7AF6-4206-A1A9-ECA6906F4E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5620BF30-7AF6-4206-A1A9-ECA6906F4E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5620BF30-7AF6-4206-A1A9-ECA6906F4E16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F0D7BB5-1F01-4F4B-8A74-B0F5E1183754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0D7BB5-1F01-4F4B-8A74-B0F5E1183754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0D7BB5-1F01-4F4B-8A74-B0F5E1183754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0D7BB5-1F01-4F4B-8A74-B0F5E1183754}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
